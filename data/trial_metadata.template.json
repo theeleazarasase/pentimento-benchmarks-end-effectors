@@ -1,0 +1,15 @@
+{
+  "rig_id": "rig_v1",
+  "load_cell": { "capacity_kg": 20, "model": "NOYITO" },
+  "hx711": { "rate_sps": 80 },
+  "calibration": {
+    "raw_zero": null,
+    "scale_counts_per_N": null,
+    "units_force": "N",
+    "calibrated_at_iso": null
+  },
+  "environment": {
+    "table_surface": null,
+    "notes": null
+  }
+}

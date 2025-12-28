@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Pentimento Benchmarks: End Effectors"
+message: "If you use this benchmark or dataset, please cite it."
+type: software
+authors:
+  - family-names: Asase
+    given-names: Eleazar
+license: MIT
